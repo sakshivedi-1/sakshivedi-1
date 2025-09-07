@@ -26,7 +26,7 @@
 ## 🚀 About Me  
 
 M.Sc. *Artificial Intelligence & Machine Learning* candidate at **IIIT Lucknow** with hands-on experience in **Machine Learning, Deep Learning, Computer Vision, and Generative AI**.  
-I enjoy working on **LLM fine-tuning (PEFT/LoRA), RAG pipelines, and AI apps** with Streamlit/FastAPI.  
+I enjoy working on **LLM fine-tuning and AI apps** with Streamlit/FastAPI.  
 
 ---
 
